@@ -4,6 +4,8 @@
 
 A peak mod menu, for the game, peak.
 
+180+ Mods
+
 Feel free to take any code from atlas, i'd just like some credit :D
 
 https://discord.gg/feqHtwARAw
@@ -21,15 +23,22 @@ Cosmetic Spam
 No Fall Damage
 No Afflictions
 No Ragdoll
+No Slip
 No Passout
 No Death
 No Weight
+No Screen Shake
+Auto Master
+Instant Throw
+Deaggro Bees
 Custom Speed
 Custom Jump Height
 Custom Climb Speed
+Custom Throw Power
 Flight
 Noclip
 Remove Afflictions
+Remove Drop Restrictions From Items
 Kill Self
 Fall
 Slip
@@ -52,15 +61,19 @@ Join From Steam Link
 ## Lobby
 <pre>
 Teleport All
+Destroy All
 Revive All And TP To Me
 Spawn Character
 Spawn Player
 Load Airport [In Game]
+Softlock All
 Force All Done With End Screen
 Detach All Ropes
 Refresh All Character Weight
 Light Campfire
 Extinguish Campfire
+Light All Lanterns
+Snuff All Lanterns
 Set Campfire Wood Amount
 Make All Icecicles Fall
 Make All Bridges Fall
@@ -97,6 +110,27 @@ Drop All Held Items
 Render All Dead
 Render All Passed Out
 Request Item Pickup All
+Swarm Bees All
+Add 0.1 Injury All
+Add 0.1 Hunger All
+Add 0.1 Cold All 
+Add 0.1 Poison All
+Add 0.1 Crab All
+Add 0.1 Curse All
+Add 0.1 Drowsy All
+Add 0.1 Weight All
+Add 0.1 Hot All
+Remove 0.1 Injury All
+Remove 0.1 Hunger All
+Remove 0.1 Cold All 
+Remove 0.1 Poison All
+Remove 0.1 Crab All
+Remove 0.1 Curse All
+Remove 0.1 Drowsy All
+Remove 0.1 Weight All
+Remove 0.1 Hot All
+Clear All Statuses
+Grow Vine On All
 </pre>
 
 ## Spawn 
@@ -105,15 +139,18 @@ Item Selector
 Spawn Item
 Remove All Items
 Remove My Items
+Remove All Flags
 Gravity Gun
 Freeze All Items
 Draw With Selected Item
 Spin All Items
+Flag Gun
 Cook All Items
 Finish Cooking On All Items
 Enable Smoke On All Items
 Disable Smoke On All Time
 Deny Pickup On All Items
+Unfreeze All Items
 </pre>
 
 ## Visual
@@ -158,6 +195,27 @@ Render Dead
 Render Passed Out
 Force Register End Screen Closed
 Request Pickup On All Items
+Swarm With Bees
+Add 0.1 Injury
+Add 0.1 Hunger
+Add 0.1 Cold
+Add 0.1 Poison
+Add 0.1 Crab
+Add 0.1 Curse
+Add 0.1 Drowsy
+Add 0.1 Weight
+Add 0.1 Hot
+Remove 0.1 Injury
+Remove 0.1 Hunger
+Remove 0.1 Cold
+Remove 0.1 Poison
+Remove 0.1 Crab
+Remove 0.1 Curse
+Remove 0.1 Drowsy
+Remove 0.1 Weight
+Remove 0.1 Hot
+Clear All Statuses
+Grow Vine On Player
 </pre>
 
 ## Settings
@@ -168,8 +226,8 @@ Set Flight Bind
 
 ## Menu Screenshots
 
-<img src="https://github.com/s-y-n-q/AtlasPeak/blob/master/Screenshot%202025-06-24%20123737.png?raw=true" alt="self tab" width="300"/>
-<img src="https://github.com/s-y-n-q/AtlasPeak/blob/master/Screenshot%202025-06-24%20123756.png?raw=true" alt="lobby tab" width="300"/>
-<img src="https://github.com/s-y-n-q/AtlasPeak/blob/master/Screenshot%202025-06-24%20123809.png?raw=true" alt="spawn tab" width="300"/>
-<img src="https://github.com/s-y-n-q/AtlasPeak/blob/master/Screenshot%202025-06-24%20123832.png?raw=true" alt="visual tab" width="300"/>
-<img src="https://github.com/s-y-n-q/AtlasPeak/blob/master/Screenshot%202025-06-24%20123822.png?raw=true" alt="players tab" width="300"/>
+<img src="https://raw.githubusercontent.com/s-y-n-q/AtlasPeak/refs/heads/main/Screenshot%202025-06-24%20123737.png" alt="self tab" width="300"/>
+<img src="https://raw.githubusercontent.com/s-y-n-q/AtlasPeak/refs/heads/main/Screenshot%202025-06-24%20123756.png" alt="lobby tab" width="300"/>
+<img src="https://raw.githubusercontent.com/s-y-n-q/AtlasPeak/refs/heads/main/Screenshot%202025-06-24%20123809.png" alt="spawn tab" width="300"/>
+<img src="https://raw.githubusercontent.com/s-y-n-q/AtlasPeak/refs/heads/main/Screenshot%202025-06-24%20123832.png" alt="visual tab" width="300"/>
+<img src="https://raw.githubusercontent.com/s-y-n-q/AtlasPeak/refs/heads/main/Screenshot%202025-06-24%20123822.png" alt="players tab" width="300"/>
