@@ -1,4 +1,4 @@
-![self tab](https://github.com/s-y-n-q/AtlasPeak/blob/master/14.png?raw=true)
+![self tab](https://raw.githubusercontent.com/s-y-n-q/AtlasPeak/refs/heads/main/14.png)
 
 # Atlas
 
