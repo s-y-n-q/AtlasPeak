@@ -60,6 +60,27 @@ Join From Steam Link
 
 ## Lobby
 <pre>
+[SM] Set Join Scene To Pretitle
+[SM] Set Join Scene To Title
+[SM] Set Join Scene To MainMenu
+[SM] Set Join Scene To Willsland
+[SM] Set Join Scene To Airport
+[SM] Set Join Scene To Level_0
+[SM] Set Join Scene To Level_1
+[SM] Set Join Scene To Level_2
+[SM] Set Join Scene To Level_3
+[SM] Set Join Scene To Level_4
+[SM] Set Join Scene To Level_5
+[SM] Set Join Scene To Level_6
+[SM] Set Join Scene To Level_7
+[SM] Set Join Scene To Level_8
+[SM] Set Join Scene To Level_9
+[SM] Set Join Scene To Level_10
+[SM] Set Join Scene To Level_11
+[SM] Set Join Scene To Level_12
+[SM] Set Join Scene To Level_13
+[SM] Set Join Scene To Level_14
+[SM] Set Room Version Requirement
 Teleport All
 Destroy All
 Revive All And TP To Me
@@ -67,6 +88,8 @@ Spawn Character
 Spawn Player
 Load Airport [In Game]
 Softlock All
+Force All Ghosts To Me
+Start Moving Orb Fog
 Force All Done With End Screen
 Detach All Ropes
 Refresh All Character Weight
@@ -157,6 +180,7 @@ Unfreeze All Items
 <pre>
 Item Tags
 Player Tags
+Box ESP
 Player Tracers
 Watermark
 </pre>
@@ -216,6 +240,16 @@ Remove 0.1 Weight
 Remove 0.1 Hot
 Clear All Statuses
 Grow Vine On Player
+Carry Player
+Do Salute Emote
+Do Thumbs Up Emote
+Do Think Emote
+Do No-No Emote
+Do Play Dead Emote
+Do Shrug Emote
+Do Crossed Arms Emote
+Do Dance Emote
+Softlock Player
 </pre>
 
 ## Settings
